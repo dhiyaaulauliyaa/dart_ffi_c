@@ -1,0 +1,45 @@
+{
+  "buildFiles": [
+    "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/dhiyaaulauliyaa/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app/.cxx/Debug/b3y2gv1c/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/dhiyaaulauliyaa/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app/.cxx/Debug/b3y2gv1c/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "monocypher::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "monocypher",
+      "output": "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/build/app/intermediates/cxx/Debug/b3y2gv1c/obj/x86_64/libmonocypher.so",
+      "runtimeFiles": []
+    },
+    "weather::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "weather",
+      "output": "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/build/app/intermediates/cxx/Debug/b3y2gv1c/obj/x86_64/libweather.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

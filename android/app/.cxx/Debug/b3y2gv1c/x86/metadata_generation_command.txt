@@ -1,0 +1,18 @@
+                    -H/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=19
+-DANDROID_PLATFORM=android-19
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620
+-DCMAKE_ANDROID_NDK=/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620
+-DCMAKE_TOOLCHAIN_FILE=/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/dhiyaaulauliyaa/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/build/app/intermediates/cxx/Debug/b3y2gv1c/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/build/app/intermediates/cxx/Debug/b3y2gv1c/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app/.cxx/Debug/b3y2gv1c/x86
+-GNinja
+                    Build command args: []
+                    Version: 2

@@ -1,0 +1,15 @@
+# ninja log v5
+0	46	1702562671	CMakeFiles/weather.dir/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/src/weather.c.o	69f3a6cb57e65744
+46	115	1702562671	/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/build/app/intermediates/cxx/Debug/b3y2gv1c/obj/x86_64/libweather.so	874544e9777308ed
+0	44	1702565072	CMakeFiles/weather.dir/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/src/weather.c.o	69f3a6cb57e65744
+44	106	1702565073	/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/build/app/intermediates/cxx/Debug/b3y2gv1c/obj/x86_64/libweather.so	874544e9777308ed
+1	70	1702565194	CMakeFiles/monocypher.dir/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/monocypher-ed25519.c.o	4cfec40fb8101e0e
+0	71	1702565194	CMakeFiles/monocypher.dir/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/crypto.c.o	a04782155b2d5907
+1	196	1702565195	CMakeFiles/monocypher.dir/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/monocypher.c.o	e9532e285cc0b12c
+196	312	1702565195	/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/build/app/intermediates/cxx/Debug/b3y2gv1c/obj/x86_64/libmonocypher.so	7eeebf56a4be97d1
+3	57	1702608527	CMakeFiles/weather.dir/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/src/weather.c.o	69f3a6cb57e65744
+1	72	1702608527	CMakeFiles/monocypher.dir/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/crypto.c.o	a04782155b2d5907
+2	72	1702608527	CMakeFiles/monocypher.dir/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/monocypher-ed25519.c.o	4cfec40fb8101e0e
+57	123	1702608527	/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/build/app/intermediates/cxx/Debug/b3y2gv1c/obj/x86_64/libweather.so	874544e9777308ed
+2	161	1702608527	CMakeFiles/monocypher.dir/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/monocypher.c.o	e9532e285cc0b12c
+161	225	1702608527	/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/build/app/intermediates/cxx/Debug/b3y2gv1c/obj/x86_64/libmonocypher.so	7eeebf56a4be97d1

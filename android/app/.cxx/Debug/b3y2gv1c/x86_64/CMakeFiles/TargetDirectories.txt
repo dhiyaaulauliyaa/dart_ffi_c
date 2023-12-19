@@ -1,0 +1,4 @@
+/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app/.cxx/Debug/b3y2gv1c/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app/.cxx/Debug/b3y2gv1c/x86_64/CMakeFiles/edit_cache.dir
+/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app/.cxx/Debug/b3y2gv1c/x86_64/CMakeFiles/monocypher.dir
+/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app/.cxx/Debug/b3y2gv1c/x86_64/CMakeFiles/weather.dir

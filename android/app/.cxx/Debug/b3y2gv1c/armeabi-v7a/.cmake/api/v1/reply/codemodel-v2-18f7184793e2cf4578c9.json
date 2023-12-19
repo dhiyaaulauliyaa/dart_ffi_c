@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "monocypher",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "monocypher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-monocypher-Debug-a4818c2c9d9693e1b9e4.json",
+					"name" : "monocypher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "weather::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-weather-Debug-497795d3222e17a5b5ee.json",
+					"name" : "weather",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app/.cxx/Debug/b3y2gv1c/armeabi-v7a",
+		"source" : "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

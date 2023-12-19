@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app/.cxx/Debug/b3y2gv1c/x86",
+  "command": "/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android19 --gcc-toolchain=/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmonocypher_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/monocypher.dir/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/crypto.c.o -c /Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/crypto.c",
+  "file": "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/crypto.c"
+},
+{
+  "directory": "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app/.cxx/Debug/b3y2gv1c/x86",
+  "command": "/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android19 --gcc-toolchain=/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmonocypher_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/monocypher.dir/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/monocypher.c.o -c /Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/monocypher.c",
+  "file": "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/monocypher.c"
+},
+{
+  "directory": "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app/.cxx/Debug/b3y2gv1c/x86",
+  "command": "/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android19 --gcc-toolchain=/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dmonocypher_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/monocypher.dir/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/monocypher-ed25519.c.o -c /Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/monocypher-ed25519.c",
+  "file": "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/monocypher/monocypher-ed25519.c"
+},
+{
+  "directory": "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/android/app/.cxx/Debug/b3y2gv1c/x86",
+  "command": "/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android19 --gcc-toolchain=/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/dhiyaaulauliyaa/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dweather_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/weather.dir/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/src/weather.c.o -c /Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/src/weather.c",
+  "file": "/Users/dhiyaaulauliyaa/Documents/Development/Files/Flutter/Learn/dart_ffi_c/src/weather.c"
+}
+]
